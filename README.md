@@ -1,18 +1,98 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building my foundation in Web Development and practicing coding daily.<br>👯 I’m looking to collaborate on:<br>Beginner-friendly open-source projects and web development projects.<br>🤝 I’m looking for help with:<br>Improving problem-solving skills, project structure, and real-world coding practices.<br>🌱 I’m currently learning:<br>C++ and Python.<br>💬 Ask me about:<br>Basics of programming, web development, photography, and creative design ideas.<br>⚡ Fun fact:<br>I love learning visually and enjoy mixing technology with creativity 🎨💻
+<!--
+    Hey there, I'm Mohit!
+    Happy to see you here exploring my README code
+    Feel free to inspire!
+    
+    But may I please ask you to follow me in return? Just a click!
+    You may also want to connect with me on LinkedIn @mohit-agre-427512370 :))
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+</a>
+
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
+
+<div>
+    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+</div>
+
+<!--
+     My mission, because I'm a superhero!
+-->
+<!--
+     This is the list of my skills and tools I am studying!
+-->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+
+<!--
+     I also have my own blog with useful information, check it out ^^
+-->
+
+### Publications
+<div> 
+  <a href="https://medium.com/@daria-stanilevici">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+  </a>
+  <a href="https://dev.to/daria-stanilevici">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  </a>
+</div>
+
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
+
+<!--
+Check out my latest post 👇  
+
+<a href="https://medium.com/@daria-stanilevici" target="_blank">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
+</a>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohit Agre) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohit Agre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitagre879@gmail.com) 
+[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mohit-07-delta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohit-07-delta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-07-delta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Mohit-07-delta&icon=0&color=0)](https://visitcount.itsvg.in)
+     Fast links to my socials!
+-->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://dev.to/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    </a>
+    <a href="https://www.credly.com/users/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
+    </a>
+    <a href="https://www.artstation.com/daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
+    </a>
+    <a href="https://medium.com/@daria-stanilevici">
+        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
