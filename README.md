@@ -10,9 +10,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=00C4FF&width=600&lines=Hello%2C+I'm+Mohit+Agre;AI+%26+Data+Science+Student;Backend+Developer;Open+Source+Contributor" alt="Typing SVG"/>
 </a>
-
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
@@ -27,11 +26,11 @@
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,mysql,html,css,git,github,vscode)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
@@ -66,20 +65,16 @@ Check out my latest post 👇
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+    <a href="https://www.linkedin.com/in/mohit-agre-427512370/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+
+    <a href="https://github.com/Mohit-07-delta">
+        <img src="https://skillicons.dev/icons?i=github" width="40"/>
     </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+
+    <a href="https://x.com/agre_mohit">
+        <img src="https://cdn.simpleicons.org/x" width="40"/>
     </a>
 </div>
 
