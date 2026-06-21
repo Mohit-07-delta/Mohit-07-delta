@@ -27,27 +27,36 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,mysql,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,html,css,git,github,vscode,postman,npm)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=redux,prisma,docker,firebase)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=linux,vercel,netlify,figma,githubactions)](https://skillicons.dev)
+
+### Exploring
+[![Exploring](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
 
-### Publications
-<div> 
-  <a href="https://medium.com/@daria-stanilevici">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
+### 📝 My Publications & Contributions
+Check out my latest articles and technical insights:
+
+<div align="center">
+  <a href="YOUR_MEDIUM_LINK">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
+  <a href="YOUR_DEVTO_LINK">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
+  <a href="YOUR_WIKIMEDIA_PROFILE">
+    <img src="https://img.shields.io/badge/Wikimedia-222222?style=for-the-badge&logo=wikimedia&logoColor=white" alt="Wikimedia">
   </a>
 </div>
 
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
 <!--
 Check out my latest post 👇  
